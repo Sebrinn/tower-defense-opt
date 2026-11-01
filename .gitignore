@@ -1,0 +1,15 @@
+# środowisko wirtualne
+.venv/
+venv/
+
+# cache Pythona
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# wyniki generowane (odtwarzalne skryptami)
+*.png
+results/*.csv
